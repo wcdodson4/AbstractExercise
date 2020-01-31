@@ -8,6 +8,6 @@ namespace AbstractExercise
     {
         public int Wheels { get; set; }
         public int Doors { get; set; }
-        public abstract void Drive();
+        public abstract void Drive(); //stubbed out method (no scope)
     }
 }
